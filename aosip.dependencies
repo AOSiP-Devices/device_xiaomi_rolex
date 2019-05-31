@@ -1,10 +1,17 @@
 [
  {
-   "repository": "kernel_xiaomi_msm8917",
-   "target_path": "kernel/xiaomi/msm8917"
+   "repository"  : "redmidevs/android_kernel_xiaomi_msm8917",
+   "target_path" : "kernel/xiaomi/msm8917",
+   "branch"      : "lineage-16.0"
  },
  {
-   "repository": "android_packages_resources_devicesettings",
-   "target_path": "packages/resources/devicesettings"
+   "repository"  : "redmidevs/android_vendor_xiaomi_rolex",
+   "target_path" : "vendor/xiaomi/rolex",
+   "branch"      : "lineage-16.0"
+ },
+ {
+   "repository"  : "LineageOS/android_packages_resources_devicesettings",
+   "target_path" : "packages/resources/devicesettings",
+   "branch"      : "lineage-16.0"
  }
 ]
